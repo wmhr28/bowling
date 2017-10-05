@@ -18,6 +18,8 @@ Enter a file path: C:\Users\mwher\Documents\NetBeansProjects\bowling\src\main\re
 I have created a set of files to do tests, they are in the following path
 ```bash
 src\main\resources
+and 
+target\classes
 ```
 
 ### Sample File 
