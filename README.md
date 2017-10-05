@@ -2,7 +2,7 @@
 
 ### Installation
 
-Unzip the contents of the file bowling_game.zip, enter the folder "target" there you will find the file bowling-1.0.0-jar-with-dependencies.jar is the executable file that starts the Ten Pin Bowling calculation system, a txt file with the turns of each player.
+Unzip the contents of the file bowling.zip, enter the folder "target" there you will find the file bowling-1.0.0-jar-with-dependencies.jar is the executable file that starts the Ten Pin Bowling calculation system, a txt file with the turns of each player.
 
 ### Usage
 ```bash
