@@ -14,6 +14,11 @@ Enter a file path:
 java -jar bowling-1.0.0-jar-with-dependencies.jar
 Enter a file path: C:\Users\mwher\Documents\NetBeansProjects\bowling\src\main\resources\game2.txt
 ```
+### Test files
+I have created a set of files to do tests, they are in the following path
+```bash
+src\main\resources
+```
 
 ### Sample File 
 
